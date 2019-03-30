@@ -1,1 +1,3 @@
-Let's start
+## This is the home page
+
+Hello!
