@@ -6,4 +6,4 @@ has_children: true
 permalink: /docs/binary-numbers
 ---
 
-## Binary Numbers
+# Binary Numbers
