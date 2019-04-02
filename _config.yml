@@ -23,13 +23,10 @@ github_username:  fdila
 
 # Build settings
 markdown: kramdown
-theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
-
-#theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
 
 search_enabled: true
