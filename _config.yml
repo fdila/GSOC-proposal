@@ -17,8 +17,8 @@ title: Interactive Digital Logic
 email: federicadilauro1998@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Just a test for my GSOC proposal regarding digital logic design
-baseurl: "fdila/GSOC-proposal" # the subpath of your site, e.g. /blog
-url: "https://github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/GSOC-proposal" # the subpath of your site, e.g. /blog
+url: "https://fdila.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  fdila
 
 # Build settings
